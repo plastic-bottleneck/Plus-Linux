@@ -1,5 +1,5 @@
 # Plus-Linux 0.4.0
-A small project I'm working on idk 
+A small project I'm working on idk... It's really bad so don't blame me lmao
 
 It's based on the latest Kernel at the moment (5.19.1) at a small size. 
 It also uses busybox instead of GNU. I may make my own coreutils in C later to make it even smaller and less with bloat. 
