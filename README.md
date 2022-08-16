@@ -11,7 +11,8 @@ you can run it using qemu:
 qemu-system-i386 -fda PlusLinux.img -m 512 -enable-kvm
 ```
 
-**It's important to be in the same directory as the .img file to be able to boot.**
+**It's important to be in the same directory as the .img file to be able to boot.
+By enableing kvm can show some errors because I didnt put a good tty log daemon in yet.**
 
 # Getting Qemu
 
