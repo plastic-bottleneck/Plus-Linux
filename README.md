@@ -14,6 +14,12 @@ qemu-system-i386 -fda PlusLinux.img -m 512 -enable-kvm
 **It's important to be in the same directory as the .img file to be able to boot.
 By enableing kvm can show some errors because I didnt put a good tty log daemon in yet.**
 
+If you just run 
+```
+qemu-system-i386 -fda PlusLinux.img -m 512
+```
+it can fix it for 70%. I don't know why :/
+
 # Getting Qemu
 
 Debian based Distros:
