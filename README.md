@@ -6,6 +6,8 @@ It also uses busybox instead of GNU. I may make my own coreutils in C later to m
 
 *Plus Linux is really buggy because it's still in Alpha*
 
+![Plus-Linux-Screenshot](https://github.com/plastic-bottleneck/Plus-Linux/blob/main/Images/Plus-Linux-0.4.0.jpg)
+
 you can run it using qemu:
 ```
 qemu-system-i386 -fda PlusLinux.img -m 512 -enable-kvm
