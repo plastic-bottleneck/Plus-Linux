@@ -27,7 +27,7 @@ It also uses busybox instead of GNU. I may make my own coreutils in C later to m
 ## How to run it in a VM
 You can run it using qemu:
 ```
-qemu-system-i386 -fda PlusLinux.img -m 512 -enable-kvm
+qemu-system-i386 -fda PlusLinux.img -m 512M -enable-kvm
 ```
 Important is, that you are in the ```root directory```  of this pull to be able to run it over qemu.  
 
