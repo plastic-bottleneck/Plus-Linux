@@ -20,7 +20,7 @@
 - Manage your Computer when you messed something up. Mount and unmount drivers or delete your friends nice images he downloaded of 4chan!
 - Expandable! Get a second floppy and put something small on it like suckless software which is only a few kilobytes in size! With that you have a ful Linux system on two floppydisks supporting graphics and webbrowsing! 
 
-## A screenshot of Plus Linux 0.4.0
+## A screenshot of Plus Linux
 ![Plus-Linux-Screenshot](https://github.com/plastic-bottleneck/Plus-Linux/blob/main/src/Plus-Linux.png)
 
 ## How to run it in a VM
