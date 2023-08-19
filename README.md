@@ -21,7 +21,7 @@
 - Expandable! Get a second floppy and put something small on it like suckless software which is only a few kilobytes in size! With that you have a ful Linux system on two floppydisks supporting graphics and webbrowsing! 
 
 ## A screenshot of Plus Linux 0.4.0
-![Plus-Linux-Screenshot](https://github.com/plastic-bottleneck/Plus-Linux/blob/main/Images/Plus-Linux-1.0.jpg)
+![Plus-Linux-Screenshot](https://github.com/plastic-bottleneck/Plus-Linux/blob/main/src/Plus-Linux.png)
 
 ## How to run it in a VM
 You can run it using qemu:
