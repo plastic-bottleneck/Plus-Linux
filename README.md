@@ -3,6 +3,10 @@
 <p align="center">Plus Linux is based on Kernel 5.15.127 (LTS) at a small size.</p>  
 <p align="center">It also uses busybox instead of GNU. I may make my own coreutils in C later to make it even smaller and with less bloat.</p>  
 
+## ╰┈➤ Online Demo . *.·༘ *
+
+- Get a look at the [live online Demo of Plus Linux](https://plastic-bottleneck.github.io/plus-linux) in your browser!
+
 ## ╰┈➤ What it offers ☄. *. ⋆  
 
 **1. Main:**  
