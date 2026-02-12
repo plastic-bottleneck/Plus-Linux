@@ -1,5 +1,4 @@
 <h1 align="center"> . . . . ╰──╮ Plus-Linux 1.0 ╭──╯ . . . .  </h1>
-<p align="center">‧˚₊•┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈•‧₊˚⊹ </p>
 <p align="center">Plus Linux is based on Kernel 5.15.127 (LTS) at a small size.</p>  
 <p align="center">It also uses busybox instead of GNU. I may make my own coreutils in C later to make it even smaller and with less bloat.</p>  
 
@@ -40,6 +39,3 @@ Run the following inside of the Plus Linux root directory:
 ```
 mkdir src/root && cp rootfs.cpio.gz src/root && cd root && zcat rootfs.cpio.gz | cpio -iv && rm rootfs.cpio.gz
 ```
-<p align="center">‧˚₊•┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈•‧₊˚⊹ </p>
-<p align="center">୨⎯ Made by Paul ❤️ Plastic Bottleneck <a href="https://github.com/plastic-bottleneck">GitHub</a> ⎯୧</p>
-<p align="center">୨⎯ Check out my custom <a href="https://github.com/plastic-bottleneck/bashrc">Bash config</a> ⎯୧</p>
